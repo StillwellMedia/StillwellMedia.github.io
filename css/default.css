@@ -1,0 +1,20 @@
+body {
+	margin: 20px;
+	font-family:helvetica;
+	font-family: 'Helvetica', 'Arial', 'Verdana', sans-serif;
+	font-size: 1em;
+	text-decoration: none;
+}
+a {
+	color: #008CBA;
+	text-decoration: none;
+}
+a:hover, a:focus {
+	color: #0078a0;
+}
+p { color: #555; }
+div { 
+	width: 700px;
+	margin: 60px auto 40px; 
+}
+.back { margin-top: 60px; }
